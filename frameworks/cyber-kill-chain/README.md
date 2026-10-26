@@ -110,3 +110,7 @@ My next step is to connect these stages with practical security monitoring, log 
 ---
 
 *This document is for cybersecurity learning and defensive security analysis.*
+
+## Visual Overview
+
+![Cyber Kill Chain diagram](cyber-kill-chain.jpeg)
