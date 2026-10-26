@@ -6,6 +6,8 @@ The Cyber Kill Chain is a cybersecurity framework developed by Lockheed Martin t
 
 It helps security professionals understand attacker behavior, identify opportunities for detection, and determine where defensive controls can disrupt an attack.
 
+![Cyber Kill Chain diagram](cyber-kill-chain.jpeg)
+
 ## The Seven Stages
 
 ### 1. Reconnaissance
@@ -113,4 +115,4 @@ My next step is to connect these stages with practical security monitoring, log 
 
 ## Visual Overview
 
-![Cyber Kill Chain diagram](cyber-kill-chain.jpeg)
+
