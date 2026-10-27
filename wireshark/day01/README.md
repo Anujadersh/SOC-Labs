@@ -89,7 +89,7 @@ If the owner does not match the domain (for example a "Mozilla" domain resolving
 
 Add your screenshots below (blur any private information):
 
-1. screenshots01-packet-list-three-panels.png : Wireshark with the three panels visible
+1. !(screenshots01-packet-list-three-panels.png) : Wireshark with the three panels visible
 2. `screenshots/02-http-filter-success-txt.png` : the `http` filter showing `GET /success.txt?ipv4`
 3. `screenshots/03-follow-http-stream.png` : Follow HTTP Stream window
 4. `screenshots/04-dns-query-response.png` : DNS query and matching response
