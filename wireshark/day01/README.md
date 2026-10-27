@@ -85,15 +85,13 @@ If the owner does not match the domain (for example a "Mozilla" domain resolving
 - DNS shows where a machine tried to go, even when the connection itself is encrypted.
 - A single unknown connection is not automatically malicious. The skill is verifying it with multiple sources.
 
-## 7. Screenshots
+## 7. Screenshots<img width="1920" height="1080" alt="screenshots01-packet-list-three-panels" src="https://github.com/user-attachments/assets/66457596-fe79-493f-8b59-973c42a00635" />
+<img width="1920" height="1080" alt="screenshots05-ipinfo-fastly" src="https://github.com/user-attachments/assets/15c118b4-8a68-4302-94f5-690061030d07" />
+<img width="1920" height="1080" alt="screenshots04-dns-query-response" src="https://github.com/user-attachments/assets/c951dbae-30a2-45a0-aa07-ab90473a02b3" />
+<img width="1920" height="1080" alt="screenshots03-follow-http-stream" src="https://github.com/user-attachments/assets/cb6d4cf6-60b4-498e-8ff0-1b375fb43a60" />
+<img width="1920" height="1080" alt="screenshots02-http-filter-success-txt" src="https://github.com/user-attachments/assets/deb8a481-985a-43a4-b1f8-fafdf22279ab" />
 
-Add your screenshots below (blur any private information):
 
-1. !(screenshots01-packet-list-three-panels.png) : Wireshark with the three panels visible
-2. `screenshots/02-http-filter-success-txt.png` : the `http` filter showing `GET /success.txt?ipv4`
-3. `screenshots/03-follow-http-stream.png` : Follow HTTP Stream window
-4. `screenshots/04-dns-query-response.png` : DNS query and matching response
-5. `screenshots/05-ipinfo-fastly.png` : ipinfo.io result showing AS54113 Fastly
 
 ## 8. Tools and references
 
